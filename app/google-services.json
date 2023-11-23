@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003594705588",
+    "project_id": "samachar-moengage",
+    "storage_bucket": "samachar-moengage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003594705588:android:ec42c47d3637faef6485e1",
+        "android_client_info": {
+          "package_name": "com.MoEngage.samachar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2UUxq2v2PKZpbD3qKBz7LtbcolylfZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
